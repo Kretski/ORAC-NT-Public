@@ -8,6 +8,7 @@
 [![Platform: STM32F4](https://img.shields.io/badge/Platform-STM32F4-blue.svg)]()
 [![Validated: Hardware](https://img.shields.io/badge/Validated-Hardware%20%2B%20Simulation-green.svg)]()
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18898599.svg)](https://doi.org/10.5281/zenodo.18898599)
+<img width="2387" height="1474" alt="orac_v54_proof" src="https://github.com/user-attachments/assets/7b293f4f-ac91-4de4-9fbe-544050d0dee7" />
 
 ---
 
