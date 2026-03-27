@@ -144,7 +144,7 @@ ORAC-NT-Public/
 | **Developer Kit** | Full source + docs + 1 year support | €500 |
 | **Production** | Full source + support + IP transfer | €25,000 |
 
-For licensing inquiries: **[your@email.com]**
+For licensing inquiries:kretski1@gmail.com
 
 ---
 
