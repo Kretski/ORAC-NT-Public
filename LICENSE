@@ -1,0 +1,28 @@
+ORAC-NT PROPRIETARY LICENSE
+Version 1.0, 2026
+
+Copyright (c) 2026. Dimitar Kretski All rights reserved. [cite: 14]
+
+TERMS AND CONDITIONS [cite: 15]
+
+1. EVALUATION USE
+The binary file (liborac_lib_final.a) and the header (orac_nt.h) are provided
+free of charge for evaluation and non-commercial testing purposes only. [cite: 15]
+
+2. RESTRICTIONS [cite: 16]
+The following is prohibited:
+a) Decompile, reverse engineer, or disassemble the binary file. [cite: 16]
+b) Use in commercial products without a paid license. [cite: 17]
+c) Resell or sublicense portions of the software to third parties. [cite: 17]
+
+3. INTELLECTUAL PROPERTY & CITATION [cite: 20]
+The algorithm and formula W(t) = Q(t)·D(t) − T(t) are the intellectual property
+of Dimitar Kretski. [cite: 20]
+
+Scientific priority:
+Manuscript submitted to IEEE Transactions on Aerospace and Electronic Systems (2026).
+DOI: 10.5281/zenodo.18898599 (Registered Archive).
+
+4. COMMERCIAL USE [cite: 18]
+For commercial license (Developer Kit or Production): [cite: 19]
+Contact:kretski1@gmail.com[cite: 19, 22]
